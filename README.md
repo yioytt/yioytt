@@ -1,5 +1,5 @@
-const SingleDay = 'appname.herokuapp.com'
-const DoubleDay = 'appname.herokuapp.com'
+const SingleDay = 'yioytt.herokuapp.com'
+const DoubleDay = 'yioytt.herokuapp.com'
 addEventListener(
 "fetch",event => {
 let nd = new Date();
